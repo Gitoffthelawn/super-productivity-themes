@@ -1,4 +1,7 @@
-# Themes for [Super Productivity](https://github.com/johannesjo/super-productivity)
+# DEPRECATED 
+
+Themes now live in [Super Productivity](https://github.com/johannesjo/super-productivity)
+
 
 <a href="https://lbesson.mit-license.org">
   <img alt="MIT license"
